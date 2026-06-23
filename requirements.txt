@@ -4,4 +4,6 @@ pandas
 openpyxl
 python-pptx
 lxml
+databricks-sql-connector
+tiktoken
 
